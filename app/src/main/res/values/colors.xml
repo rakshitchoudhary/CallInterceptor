@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent_color">#00000000</color>
+
+    <color name="primary_color">#1A7BF9</color> <!-- Try to have a color that renders well on both light & dark theme -->
+    <!-- You can use https://material.io/design/color/#tools-for-picking-colors to get dark color value from primary -->
+    <color name="primary_dark_color">#1A7BF9</color>
+    <color name="primary_light_color">#ffab4d</color>
+    <color name="notification_led_color">#1A7BF9</color>
+
+    <color name="black_color">#000000</color>
+    <color name="dark_grey_color">#444444</color>
+    <color name="grey_color">#808080</color>
+    <color name="light_grey_color">#c4c4c4</color>
+    <color name="white_color">#ffffff</color>
+    <color name="red_color">#ff0000</color>
+    <color name="green_color">#96c11f</color>
+    <color name="green">#24DAC4</color>
+
+    <color name="read_color">#3eb5c0</color>
+    <color name="toolbar_color">#e1e1e1</color>
+    <color name="header_background_color">#f3f3f3</color>
+    <color name="security_gray_color">#c2c2c2</color>
+    <color name="chat_bubble_text_color">#808080</color>
+    <color name="chat_bubble_incoming_color">#f3f3f3</color>
+    <color name="chat_bubble_outgoing_color">#F1F7FF</color>
+    <color name="card_bck_grey">#F7F8F8</color>
+
+    <color name="disabled_color">#808080</color>
+    <color name="contact_disabled_color">#99ffffff</color>
+    <color name="blue">#2196F3</color>
+    <color name="light_grey1">#DAD6D6</color>
+
+    <color name="male">#21BEFF</color>
+    <color name="male1">#47C9FF</color>
+    <color name="female">#FF3182</color>
+
+    <color name="tint_color">#DAE7FE</color>
+    <color name="call_circle_bck">#B01A7BF9</color>
+</resources>

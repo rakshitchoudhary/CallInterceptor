@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CallInterceptor</string>
+
+    //International
+    <string name="inter_title">International Number</string>
+    <string name="inter_local_title">Local Number</string>
+    <string name="inter_yes">Yes</string>
+    <string name="inter_no">No</string>
+    <string name="inter_ask">Ask</string>
+    <string name="inter_always">Always use Mobimi for international calls</string>
+    <string name="inter_setting_title">Intercept International Calls</string>
+    <string name="inter_setting_subtitle_yes">Yes, switch to Mobimi app when making calls from phone\'s dialer.</string>
+    <string name="inter_setting_subtitle_no">No, don\'t switch to Mobimi app when making calls from phone\'s dialer.</string>
+    <string name="inter_setting_subtitle_ask">Always ask me to switch to Mobimi app when making calls from phone\'s dialer.</string>
+    <string name="inter_permission_txt">Hi, please follow the steps shown in the images above to enable further permissions for your device.</string>
+    <string name="inter_btn">Close</string>
+</resources>
